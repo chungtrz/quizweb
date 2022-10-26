@@ -26,11 +26,6 @@ const quiz =[
         answer:3
     },
     {
-        q:'Nguyễn Tất Thành đặt chân đầu tiên trên đất Pháp ở đâu?',
-        option: ['Nhãn hiệu xây dựng','Le Havre','Ăn măng nào','Thủ đô Paris'],
-        answer:0
-    },
-    {
         q:'Quá trình hình thành và phát triển tư tưởng Hồ Chí Minh là giai đoạn nào? thời kỳ tìm đường cứu nước, giải phóng dân tộc?',
         option: ['1908-1911','1911-1920','1921-1930','1930-1945'],
         answer:1
